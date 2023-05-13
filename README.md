@@ -1,8 +1,8 @@
-# Harley Davidson Sportster Bracket Models
+## Harley Davidson Sportster Bracket Models
 
-## Front - 4 pot Tokico 105mm [Tested, in use]
-## Front - 6 pot Advics 130mm [Never tested in practice]
-## Rear - 6 pot Advics 130mm [Tested, in use]
+* Front - 4 pot Tokico 105mm [Tested, in use]
+* Front - 6 pot Advics 130mm [Never tested in practice]
+* Rear - 6 pot Advics 130mm [Tested, in use]
 
 This is a set of 3D models for machining brackets that are compatible with the Harley Davidson Sportster 2004+. 
 The brackets are intended for use with stock rotors, but can also be used with enlarged rotors by adding spacers. 
